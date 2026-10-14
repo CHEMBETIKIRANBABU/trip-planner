@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-Then [open http://localhost:3000](https://chembetikiranbabu.github.io/trip-planner/) in the browser.
+Then (https://chembetikiranbabu.github.io/trip-planner/) in the browser.
 
 ## Environment variables
 
